@@ -1,4 +1,4 @@
-### Traffic_light_controller_Synthesis
+# Traffic_light_controller_Synthesis
 
 ## Aim:
 Synthesize Traffic Light Controller design using Constraints and analyse area and Power reports.
